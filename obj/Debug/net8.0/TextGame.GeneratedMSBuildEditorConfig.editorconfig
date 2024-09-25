@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TextGame
-build_property.ProjectDir = C:\Users\ajin\source\repos\TextGame\TextGame\
+build_property.ProjectDir = C:\Users\ajin\OneDriver\문서\GitHub\Csharp-_Practice_TextGame\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
