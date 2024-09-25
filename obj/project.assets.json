@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ajin\\source\\repos\\TextGame\\TextGame\\TextGame.csproj",
+      "projectUniqueName": "C:\\Users\\ajin\\OneDriver\\문서\\GitHub\\Csharp-_Practice_TextGame\\TextGame.csproj",
       "projectName": "TextGame",
-      "projectPath": "C:\\Users\\ajin\\source\\repos\\TextGame\\TextGame\\TextGame.csproj",
+      "projectPath": "C:\\Users\\ajin\\OneDriver\\문서\\GitHub\\Csharp-_Practice_TextGame\\TextGame.csproj",
       "packagesPath": "C:\\Users\\Ajin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ajin\\source\\repos\\TextGame\\TextGame\\obj\\",
+      "outputPath": "C:\\Users\\ajin\\OneDriver\\문서\\GitHub\\Csharp-_Practice_TextGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
